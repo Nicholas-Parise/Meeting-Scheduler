@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="Home"
+        />
+    <item android:id="@+id/menu_new"
+        android:title="New meeting"
+        />
+    <item android:id="@+id/menu_search"
+        android:title="Meeting search"
+        />
+    <item android:id="@+id/menu_drop"
+        android:title="Manage meetings"
+        />
+
+</menu>
