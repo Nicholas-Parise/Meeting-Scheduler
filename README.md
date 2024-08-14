@@ -84,21 +84,21 @@ created any meetings yet. </p>
   <td width=244 valign=top style='width:183.0pt;border:solid black 1.0pt;
   border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
   <p class=MsoNormal><img width=221 height=455 id=image2.png
-  src="COSC%203P97%20A2%20Meeting%20Scheduler_files/image001.png"></p>
+  src="Images/image001.png"></p>
   </td>
   <td width=244 valign=top style='width:183.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt'>
   <p class=MsoNormal style='line-height:normal;border:none'><img width=221
   height=453 id=image3.png
-  src="COSC%203P97%20A2%20Meeting%20Scheduler_files/image002.png"></p>
+  src="Images/image002.png"></p>
   <p class=MsoNormal style='line-height:normal;border:none'>&nbsp;</p>
   </td>
   <td width=244 valign=top style='width:183.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt'>
   <p class=MsoNormal><img width=220 height=455 id=image4.png
-  src="COSC%203P97%20A2%20Meeting%20Scheduler_files/image003.png"></p>
+  src="Images/image003.png"></p>
   </td>
  </tr>
  <tr>
@@ -150,14 +150,14 @@ created any meetings yet. </p>
   <td width=244 valign=top style='width:183.0pt;border:solid black 1.0pt;
   border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
   <p class=MsoNormal><img width=239 height=492 id=image1.png
-  src="COSC%203P97%20A2%20Meeting%20Scheduler_files/image004.png"></p>
+  src="Images/image004.png"></p>
   </td>
   <td width=244 valign=top style='width:183.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt'>
   <p class=MsoNormal style='line-height:normal;border:none'><img width=232
   height=477 id=image5.png
-  src="COSC%203P97%20A2%20Meeting%20Scheduler_files/image005.png"></p>
+  src="Images/image005.png"></p>
   </td>
   <td width=244 valign=top style='width:183.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
